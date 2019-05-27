@@ -12,7 +12,7 @@ export default class Ferdinand extends App {
           <meta charset='UTF-8' />
           <meta name='description' content='Aspuddens härligaste BRF' />
           <meta name='viewport' content='width=device-width, initial-scale=1.0' />
-          <link href='https://fonts.googleapis.com/css?family=Raleway:100,400&display=swap' rel='stylesheet' />
+          <link href='https://fonts.googleapis.com/css?family=Raleway:100,400&display=swap' rel='stylesheet' defer />
         </Head>
         <Global
           styles={css`
